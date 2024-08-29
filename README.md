@@ -10,7 +10,7 @@ I'm currently learning advanced C++ programming and exploring machine learning c
 I'm looking to collaborate on open-source projects, startup ideas, and research in AI and technology.
 
 ## 📫 How to Reach Me
-You can reach me at fatma.nazeih@example.com or follow me on [LinkedIn]([https://www.linkedin.com/in/fatma-nazeih](https://www.linkedin.com/in/fatma-nazeih-a69143298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)).
+You can reach me at fatmanazeih37@gmail.com or follow me on [LinkedIn]([https://www.linkedin.com/in/fatma-nazeih](https://www.linkedin.com/in/fatma-nazeih-a69143298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)).
 
 ## 😄 Pronouns
 My pronouns are she/her.
