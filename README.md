@@ -1,10 +1,10 @@
 # Hi there, I'm Fatma Nazeih 👋
 
 ## 👀 Interests
-I'm interested in software development, AI, and building innovative tech solutions.
+I'm interested in software development, AI, Web development and building innovative tech solutions.
 
 ## 🌱 Currently Learning
-I'm currently learning advanced C++ programming and exploring machine learning concepts.
+I'm currently learning advanced programming and exploring Web development concepts.
 
 ## 💞️ Looking to Collaborate On
 I'm looking to collaborate on open-source projects, startup ideas, and research in AI and technology.
