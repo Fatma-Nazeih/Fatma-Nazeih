@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#FF69B4;">💖 Hi There, I'm Fatma Nazeih 💖</span>
+  <span style="color:#FF69B4;"> Hi There, I'm Fatma Nazeih </span>
 </h1>
 
 ```console
