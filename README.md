@@ -1,6 +1,6 @@
-<h1 align="center">
-  <span style="color:#FF69B4;"> Hi There, I'm Fatma Nazeih </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+There,+I'm+Fatma+Nazeih+💖" />
+</p>
 
 ```console
 ┌──(fatma㉿github)-[~/profile]
