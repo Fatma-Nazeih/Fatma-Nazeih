@@ -10,7 +10,7 @@
 ┌──(fatma㉿github)-[~/profile]
 └─$ whoami
 
-💖 Fatma Nazeer
+💖 Fatma Nazeih
 🎓 IT Student at Cairo University
 💻 Faculty of Computers & Artificial Intelligence
 🔐 Penetration Testing Learner
